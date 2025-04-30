@@ -1,6 +1,6 @@
 # Cat Explorer - Aplicação React
 
-Aplicação web desenvolvida em React para explorar diferentes raças de gatos utilizando a The Cat API.
+Aplicação web desenvolvida em React para explorar API.
 
 ## Funcionalidades
 
