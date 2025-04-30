@@ -50,7 +50,7 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente de desen
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/cat-app.git](https://github.com/FelipeBattarra/Cats_React.git) # Substitua pela URL do seu repo
+    git clone [https://github.com/seu-usuario/cat-app.git](https://github.com/GuilhermeBorges12/Cats-API-trabalho.git) # Substitua pela URL do seu repo
     cd cat-app
     ```
 
