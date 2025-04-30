@@ -106,4 +106,4 @@ cat-app/
 
 ## Autor
 
-**Felipe Jorge Battarra**
+**Guilherme Borges Rocha**
